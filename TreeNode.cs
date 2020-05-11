@@ -1,0 +1,9 @@
+﻿namespace May2020Challenge
+{
+    public class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+    }
+}
